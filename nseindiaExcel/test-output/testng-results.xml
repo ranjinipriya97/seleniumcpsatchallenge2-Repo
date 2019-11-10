@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42282" started-at="2019-11-10T21:35:15 IST" finished-at="2019-11-10T21:35:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42282" started-at="2019-11-10T21:35:15 IST" finished-at="2019-11-10T21:35:57 IST">
+      <class name="nseindiaExcel.ReadFromExcel">
+        <test-method status="PASS" signature="setup()[pri:0, instance:nseindiaExcel.ReadFromExcel@7c29daf3]" name="setup" is-config="true" duration-ms="11921" started-at="2019-11-10T21:35:15 IST" finished-at="2019-11-10T21:35:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="readingFile()[pri:0, instance:nseindiaExcel.ReadFromExcel@7c29daf3]" name="readingFile" duration-ms="29988" started-at="2019-11-10T21:35:27 IST" finished-at="2019-11-10T21:35:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readingFile -->
+      </class> <!-- nseindiaExcel.ReadFromExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
